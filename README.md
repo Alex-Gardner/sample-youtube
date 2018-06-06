@@ -1,5 +1,7 @@
 # sample-youtube
 
+## Simple code sample for playing youtube videos in a modal 
+
 Dev resources:
 https://www.codecademy.com/en/tracks/youtube
 https://developers.google.com/youtube/v3/quickstart/js
@@ -8,7 +10,8 @@ Simple youtube api integration that allows videos to be played as modals (Using 
 Can be served by node or python
 
 Python:
-- start a default generic server
+
+* start a default generic server
 
 ```
 python3 -m http.server 8000
@@ -18,7 +21,8 @@ navigate to that file in a browser window
 http://localhost:8000/youtube.html
 
 Node:
-- start up node server from the JS file:
+
+* start up node server from the JS file:
 
 ```
 node node-youtube.js
